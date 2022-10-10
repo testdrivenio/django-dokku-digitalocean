@@ -1,6 +1,6 @@
 # Deploying a Django app to Dokku on a Digital Ocean Droplet
 
-Check out the [article](x) to learn how to deploy it.
+Check out the [article](https://testdriven.io/blog/django-dokku/) to learn how to deploy it.
 
 ## Want to use this project?
 
